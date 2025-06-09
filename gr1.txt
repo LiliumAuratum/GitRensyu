@@ -8,3 +8,4 @@ git no rensyu -4 branch no otameshi
 
 git no rensyu -5 branch no zikken
 
+git no rensyu -9 branch no zikken
