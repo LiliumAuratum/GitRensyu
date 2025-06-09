@@ -11,3 +11,5 @@ git no rensyu -5 branch no zikken
 git no rensyu -6 nare
 
 git no rensyu -7 nare no tame
+
+git no rensyu -8 omoitsukanai
